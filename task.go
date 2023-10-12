@@ -22,5 +22,5 @@ func main() {
 	multi := multiplication(a, b)
 	fmt.Println(a, " + ", b, " = ", summa)
 	fmt.Println(a, " - ", b, " = ", sub)
-	fmt.Println(a, " - ", b, " = ", multi)
+	fmt.Println(a, " * ", b, " = ", multi)
 }
